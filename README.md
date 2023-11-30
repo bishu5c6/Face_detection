@@ -18,3 +18,17 @@ Step-3: Install all required packages
 ```
 pip install -r requirements.txt
 ```
+Step-4: Run the flask application
+
+```
+python app.py
+```
+
+#### Model used in these app you can check the official repo
+
+```
+https://github.com/kipr/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
+```
+
+
+
