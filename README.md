@@ -29,6 +29,7 @@ python app.py
 ```
 https://github.com/kipr/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
 ```
-
+# Output Sample
+<video src="output.mp4" controls title="Title"></video>
 
 
