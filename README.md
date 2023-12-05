@@ -1,5 +1,5 @@
-# Face_detection
-Face detection using Flask
+# Face_detection with flask
+Creating a face detection application, whenever you pass a image it will draw a rectangle box on the image, and when you open a webcam it will show rectangle boxes on the image
 
 ### How to run these project in your local system
 
@@ -30,6 +30,7 @@ python app.py
 https://github.com/kipr/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
 ```
 # Output Sample
+
 <video src="output.mp4" controls title="Title"></video>
 
 
