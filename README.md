@@ -1,5 +1,7 @@
 # Face_detection with flask
-Creating a face detection application, whenever you pass a image it will draw a rectangle box on the image, and when you open a webcam it will show rectangle boxes on the image
+Creating a face detection application, whenever you pass a image it will draw a rectangle box on the image, and when you open a webcam it will show rectangle boxes on the image.
+
+* In order to understand these project you have to understand about Computer Vision, Flask and Python basics of HTML. 
 
 ### How to run these project in your local system
 
